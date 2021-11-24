@@ -7,7 +7,7 @@ const { atemTelevisionStudioHD } = require('./atem-television-studio-hd')
 const { atemTelevisionStudioProHD } = require('./atem-television-studio-pro-hd')
 const { atemTelevisionStudioPro4k } = require('./atem-television-studio-pro-4k')
 
-const { atemConstallation8k } = require('./atem-constallation-8k')
+const { atemConstellation8k } = require('./atem-constellation-8k')
 
 const { atemMini } = require('./atem-mini')
 const { atemMiniPro } = require('./atem-mini-pro')
@@ -25,7 +25,7 @@ module.exports = [
 	atemTelevisionStudioProHD,
 	atemTelevisionStudioPro4k,
 
-	atemConstallation8k,
+	atemConstellation8k,
 
 	atemMini,
 	atemMiniPro,
