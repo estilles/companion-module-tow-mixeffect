@@ -17,8 +17,8 @@ module.exports = {
 		atemTelevisionStudioProHD: 9,
 		atemTelevisionStudioPro4k: 10,
 
-		atemConstallation: 11,
-		atemConstallation8k: 12,
+		atemConstellation: 11,
+		atemConstellation8k: 12,
 
 		atemMini: 13,
 		atemMiniPro: 14,
