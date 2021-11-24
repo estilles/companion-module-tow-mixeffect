@@ -2,7 +2,7 @@ const { model, audioSource } = require('./types')
 const generator = require('./generators')
 
 const switcher = {
-	id: model.atemConstallation8k,
+	id: model.atemConstellation8k,
 	label: 'ATEM Constellation 8K',
 	mixEffectBuses: 4,
 	auxBuses: 24,
@@ -49,5 +49,5 @@ switcher.audioSources = [
 ]
 
 module.exports = {
-	atemConstallation8k: switcher,
+	atemConstellation8k: switcher,
 }
