@@ -11,7 +11,7 @@ module.exports = {
 		atemProductionStudio4k: 4,
 		atem1meProductionStudio4k: 5,
 		atem2meProductionStudio4k: 6,
-		atem2meBroadcastStudio4k: 7,
+		atem4meBroadcastStudio4k: 7,
 
 		atemTelevisionStudioHD: 8,
 		atemTelevisionStudioProHD: 9,
