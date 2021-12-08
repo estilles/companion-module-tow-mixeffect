@@ -1,4 +1,5 @@
-const getVariableName = (prefix, index, key) => `${prefix}${Number.isInteger(index) ? `_${index}` : ''}_${key}`
+const getVariableName = (prefix, index, key, length = 1) =>
+	`${prefix}${Number.isInteger(index) ? `_${index.toString().padStart(length, '0')}` : ''}_${key}`
 
 const onOff = (value) => (value ? 'ON' : 'OFF')
 

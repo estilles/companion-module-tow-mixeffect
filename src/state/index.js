@@ -10,7 +10,7 @@ const all = {
 	// macros: require('./macrosState'),
 	// multiview: require('./multiViewerState'),
 	output: require('./outputState'),
-	// sources: require('./sourcesState'),
+	sources: require('./sourcesState'),
 	// superSource: require('./superSourceState'),
 }
 
